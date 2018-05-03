@@ -1,7 +1,8 @@
-package com.graduation.nightwingky.bookdrifting
+package com.graduation.nightwingky.bookdrifting.market.ui.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.graduation.nightwingky.bookdrifting.R
 
 class MainActivity : AppCompatActivity() {
 
